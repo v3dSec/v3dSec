@@ -1,5 +1,3 @@
-# 🛡️ Adversary Emulation & Offensive Security Tool Development
-
 ## 👋 Introduction
 
 I’m Ved Prakash Gupta, an Offensive Security Experienced Penetration Tester (OSEP) specializing in offensive security tool development and adversary emulation. This repository showcases my work creating realistic attack simulations and custom tools that replicate real-world threat actor tactics.
